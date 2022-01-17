@@ -1,0 +1,40 @@
+2022-01-15 12:39:11,924  INFO [main] carsrunner:14 - URL Opened
+2022-01-15 12:39:13,920  INFO [main] carsrunner:14 - Page opend with title Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+2022-01-15 12:39:15,220  INFO [main] carsrunner:14 - signin is clicked in page home page
+2022-01-15 12:39:20,959  INFO [main] carsrunner:14 - Email field is send in page Account Log in
+2022-01-15 12:39:21,504  INFO [main] carsrunner:14 - password field is send in page Account Log in
+2022-01-15 12:39:22,249  INFO [main] carsrunner:14 - sign in button is clicked in page Account Log in
+2022-01-15 12:39:23,151  INFO [main] carsrunner:14 - Successfully logged in
+2022-01-15 12:39:24,102  INFO [main] carsrunner:14 - from place is clicked in page from
+2022-01-15 12:39:24,920  INFO [main] carsrunner:14 - place is send in page from
+2022-01-15 12:39:25,736  INFO [main] carsrunner:14 - place is clicked in page to
+2022-01-15 12:39:26,500  INFO [main] carsrunner:14 - place is send in page to
+2022-01-15 12:39:27,321  INFO [main] carsrunner:14 - place is clicked in page to
+2022-01-15 12:39:30,047 ERROR [main] carsrunner:21 - calendar is not able clicked in page calendar
+2022-01-15 12:39:33,107  INFO [main] carsrunner:14 - round is clicked in page round
+2022-01-15 12:39:33,679 ERROR [main] carsrunner:21 - calendar is not able clicked in page calendar
+2022-01-15 12:39:34,661  INFO [main] carsrunner:14 - local is clicked in page local
+2022-01-15 12:39:35,221 ERROR [main] carsrunner:21 - calendar is not able clicked in page calendar
+2022-01-15 12:39:36,283  INFO [main] carsrunner:14 - airport is clicked in page airport
+2022-01-15 12:39:38,003  INFO [main] carsrunner:14 - dropaddress is clicked in page address
+2022-01-15 12:39:38,757  INFO [main] carsrunner:14 - dropaddress is send in page address
+2022-01-15 12:39:59,363 ERROR [main] carsrunner:21 - dropaddress is not able clicked in page address
+2022-01-15 12:40:00,368  INFO [main] carsrunner:14 - playstore is clicked in page playstore
+2022-01-15 12:40:05,879  INFO [main] carsrunner:14 - playsrore detail shown 
+2022-01-15 12:40:06,892  INFO [main] carsrunner:14 - home page is clicked in page home page
+2022-01-15 12:40:07,934  INFO [main] carsrunner:14 - car rental is clicked in page rental
+2022-01-15 12:40:09,196  INFO [main] carsrunner:14 - One way cab is clicked in page onewaycab
+2022-01-15 12:40:14,948  INFO [main] carsrunner:14 - chennaitab is clicked in page chennai
+2022-01-15 12:40:17,669  INFO [main] carsrunner:14 - trl is clicked in page trl
+2022-01-15 12:40:22,420  INFO [main] carsrunner:14 - home page is clicked in page home page
+2022-01-15 12:40:23,008  INFO [main] carsrunner:14 - img is clicked in page img
+2022-01-15 12:40:25,943  INFO [main] carsrunner:14 - bookings is clicked in page bookings
+2022-01-15 12:40:28,755  INFO [main] carsrunner:14 - cancelled is clicked in page cancelled
+2022-01-15 12:40:31,398  INFO [main] carsrunner:14 - completed is clicked in page completed
+2022-01-15 12:40:34,203  INFO [main] carsrunner:14 - booknow is clicked in page booknow
+2022-01-15 12:40:36,835  INFO [main] carsrunner:14 - img is clicked in page img
+2022-01-15 12:40:39,831  INFO [main] carsrunner:14 - accountsetting is clicked in page accountsetting
+2022-01-15 12:40:43,312  INFO [main] carsrunner:14 - home is clicked in page home
+2022-01-15 12:40:46,190  INFO [main] carsrunner:14 - img is clicked in page img
+2022-01-15 12:40:49,283  INFO [main] carsrunner:14 - logout is clicked in page logout
+2022-01-15 12:40:50,288  INFO [main] carsrunner:14 - Signed out sucessfully 

@@ -1,0 +1,30 @@
+2022-01-14 19:52:17,827  INFO [main] carsrunner:14 - URL Opened
+2022-01-14 19:52:19,075  INFO [main] carsrunner:14 - Page opend with title Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+2022-01-14 19:52:20,264  INFO [main] carsrunner:14 - signin is clicked in page home page
+2022-01-14 19:52:26,050  INFO [main] carsrunner:14 - Email field is send in page Account Log in
+2022-01-14 19:52:26,573  INFO [main] carsrunner:14 - password field is send in page Account Log in
+2022-01-14 19:52:27,396  INFO [main] carsrunner:14 - sign in button is clicked in page Account Log in
+2022-01-14 19:52:28,161  INFO [main] carsrunner:14 - Successfully logged in
+2022-01-14 19:52:29,103  INFO [main] carsrunner:14 - from place is clicked in page from
+2022-01-14 19:52:29,781  INFO [main] carsrunner:14 - place is send in page from
+2022-01-14 19:52:30,624  INFO [main] carsrunner:14 - place is clicked in page to
+2022-01-14 19:52:31,358  INFO [main] carsrunner:14 - place is send in page to
+2022-01-14 19:52:32,165  INFO [main] carsrunner:14 - place is clicked in page to
+2022-01-14 19:52:33,269  INFO [main] carsrunner:14 - selected is clicked in page select
+2022-01-14 19:52:33,580  INFO [main] carsrunner:14 - Successfully verified
+2022-01-14 19:52:34,415  INFO [main] carsrunner:14 - home page is clicked in page home page
+2022-01-14 19:52:39,289  INFO [main] carsrunner:14 - round is clicked in page round
+2022-01-14 19:52:40,233  INFO [main] carsrunner:14 - selected is clicked in page select
+2022-01-14 19:52:43,072  INFO [main] carsrunner:14 - select car is clicked in page select
+2022-01-14 19:52:44,552  INFO [main] carsrunner:14 - location is clicked in page location
+2022-01-14 19:52:44,979  INFO [main] carsrunner:14 - location is send in page location
+2022-01-14 19:52:45,912  INFO [main] carsrunner:14 - locat is clicked in page locat
+2022-01-14 19:52:46,590  INFO [main] carsrunner:14 - proceed is clicked in page procedd
+2022-01-14 19:52:49,244  INFO [main] carsrunner:14 - book is clicked in page book
+2022-01-14 19:53:18,319  INFO [main] carsrunner:14 - local is clicked in page local
+2022-01-14 19:53:19,207  INFO [main] carsrunner:14 - selected is clicked in page select
+2022-01-14 19:53:41,830 ERROR [main] carsrunner:21 - time is not able clicked in page time
+2022-01-14 19:54:02,373 ERROR [main] carsrunner:21 - airport is not able clicked in page airport
+2022-01-14 19:54:02,980  INFO [main] carsrunner:14 - playstore is clicked in page playstore
+2022-01-14 19:54:23,381 ERROR [main] carsrunner:21 - car rental is not able clicked in page rental
+2022-01-14 19:54:43,757 ERROR [main] carsrunner:21 - One way cab is not able clicked in page onewaycab

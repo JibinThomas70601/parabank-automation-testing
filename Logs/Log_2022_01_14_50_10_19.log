@@ -1,0 +1,5 @@
+2022-01-14 22:50:34,864  INFO [main] carsrunner:14 - URL Opened
+2022-01-14 22:50:36,733  INFO [main] carsrunner:14 - One way cab is clicked in page onewaycab
+2022-01-14 22:50:37,771  INFO [main] carsrunner:14 - img is clicked in page img
+2022-01-14 22:50:40,341  INFO [main] carsrunner:14 - bookings is clicked in page bookings
+2022-01-14 22:51:02,648 ERROR [main] carsrunner:21 - cancelled is not able clicked in page cancelled

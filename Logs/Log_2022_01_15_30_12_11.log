@@ -1,0 +1,25 @@
+2022-01-15 12:30:28,959  INFO [main] carsrunner:14 - URL Opened
+2022-01-15 12:30:31,777  INFO [main] carsrunner:14 - Page opend with title Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+2022-01-15 12:30:33,148  INFO [main] carsrunner:14 - signin is clicked in page home page
+2022-01-15 12:30:39,526  INFO [main] carsrunner:14 - Email field is send in page Account Log in
+2022-01-15 12:30:40,414  INFO [main] carsrunner:14 - password field is send in page Account Log in
+2022-01-15 12:30:41,412  INFO [main] carsrunner:14 - sign in button is clicked in page Account Log in
+2022-01-15 12:30:42,302  INFO [main] carsrunner:14 - Successfully logged in
+2022-01-15 12:30:43,381  INFO [main] carsrunner:14 - from place is clicked in page from
+2022-01-15 12:30:44,122  INFO [main] carsrunner:14 - place is send in page from
+2022-01-15 12:30:44,953  INFO [main] carsrunner:14 - place is clicked in page to
+2022-01-15 12:30:45,739  INFO [main] carsrunner:14 - place is send in page to
+2022-01-15 12:30:46,635  INFO [main] carsrunner:14 - place is clicked in page to
+2022-01-15 12:30:47,277 ERROR [main] carsrunner:21 - calendar is not able clicked in page calendar
+2022-01-15 12:30:50,377  INFO [main] carsrunner:14 - round is clicked in page round
+2022-01-15 12:30:50,941 ERROR [main] carsrunner:21 - calendar is not able clicked in page calendar
+2022-01-15 12:30:51,897  INFO [main] carsrunner:14 - local is clicked in page local
+2022-01-15 12:30:52,502 ERROR [main] carsrunner:21 - calendar is not able clicked in page calendar
+2022-01-15 12:30:53,621  INFO [main] carsrunner:14 - airport is clicked in page airport
+2022-01-15 12:30:55,319  INFO [main] carsrunner:14 - dropaddress is clicked in page address
+2022-01-15 12:30:56,164  INFO [main] carsrunner:14 - dropaddress is send in page address
+2022-01-15 12:30:58,875 ERROR [main] carsrunner:21 - dropaddress is not able clicked in page address
+2022-01-15 12:30:59,160 ERROR [main] carsrunner:21 - playstore is not able clicked in page playstore
+2022-01-15 12:30:59,332 ERROR [main] carsrunner:21 - car rental is not able clicked in page rental
+2022-01-15 12:30:59,442 ERROR [main] carsrunner:21 - One way cab is not able clicked in page onewaycab
+2022-01-15 12:30:59,564 ERROR [main] carsrunner:21 - img is not able clicked in page img

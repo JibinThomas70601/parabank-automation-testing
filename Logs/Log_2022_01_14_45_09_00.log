@@ -1,0 +1,60 @@
+2022-01-14 21:45:18,788  INFO [main] carsrunner:14 - URL Opened
+2022-01-14 21:45:19,909  INFO [main] carsrunner:14 - Page opend with title Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+2022-01-14 21:45:21,027  INFO [main] carsrunner:14 - signin is clicked in page home page
+2022-01-14 21:45:26,620  INFO [main] carsrunner:14 - Email field is send in page Account Log in
+2022-01-14 21:45:27,138  INFO [main] carsrunner:14 - password field is send in page Account Log in
+2022-01-14 21:45:27,833  INFO [main] carsrunner:14 - sign in button is clicked in page Account Log in
+2022-01-14 21:45:28,452  INFO [main] carsrunner:14 - Successfully logged in
+2022-01-14 21:45:29,299  INFO [main] carsrunner:14 - from place is clicked in page from
+2022-01-14 21:45:30,754  INFO [main] carsrunner:14 - place is send in page from
+2022-01-14 21:45:31,638  INFO [main] carsrunner:14 - place is clicked in page to
+2022-01-14 21:45:32,320  INFO [main] carsrunner:14 - place is send in page to
+2022-01-14 21:45:33,097  INFO [main] carsrunner:14 - place is clicked in page to
+2022-01-14 21:45:34,586  INFO [main] carsrunner:14 - selected is clicked in page select
+2022-01-14 21:45:36,822  INFO [main] carsrunner:14 - Successfully verified
+2022-01-14 21:45:39,462  INFO [main] carsrunner:14 - home page is clicked in page home page
+2022-01-14 21:45:44,076  INFO [main] carsrunner:14 - round is clicked in page round
+2022-01-14 21:45:44,971  INFO [main] carsrunner:14 - selected is clicked in page select
+2022-01-14 21:45:47,718  INFO [main] carsrunner:14 - select car is clicked in page select
+2022-01-14 21:45:48,626  INFO [main] carsrunner:14 - booking detail shown 
+2022-01-14 21:45:49,321  INFO [main] carsrunner:14 - home page is clicked in page home page
+2022-01-14 21:45:50,304  INFO [main] carsrunner:14 - local is clicked in page local
+2022-01-14 21:45:51,181  INFO [main] carsrunner:14 - selected is clicked in page select
+2022-01-14 21:45:53,702  INFO [main] carsrunner:14 - time is clicked in page time
+2022-01-14 21:45:54,435  INFO [main] carsrunner:14 - select car is clicked in page select
+2022-01-14 21:45:54,818  INFO [main] carsrunner:14 - booking detail shown 
+2022-01-14 21:45:55,465  INFO [main] carsrunner:14 - home page is clicked in page home page
+2022-01-14 21:45:56,346  INFO [main] carsrunner:14 - airport is clicked in page airport
+2022-01-14 21:45:57,469  INFO [main] carsrunner:14 - dropaddress is clicked in page address
+2022-01-14 21:45:58,153  INFO [main] carsrunner:14 - dropaddress is send in page address
+2022-01-14 21:45:59,172  INFO [main] carsrunner:14 - dropaddress is clicked in page address
+2022-01-14 21:46:00,172  INFO [main] carsrunner:14 - selected is clicked in page select
+2022-01-14 21:46:02,881  INFO [main] carsrunner:14 - select car is clicked in page select
+2022-01-14 21:46:03,774  INFO [main] carsrunner:14 - booking detail shown 
+2022-01-14 21:46:04,373  INFO [main] carsrunner:14 - home page is clicked in page home page
+2022-01-14 21:46:05,360  INFO [main] carsrunner:14 - playstore is clicked in page playstore
+2022-01-14 21:46:10,515  INFO [main] carsrunner:14 - playsrore detail shown 
+2022-01-14 21:46:11,208  INFO [main] carsrunner:14 - home page is clicked in page home page
+2022-01-14 21:46:12,082  INFO [main] carsrunner:14 - car rental is clicked in page rental
+2022-01-14 21:46:15,157  INFO [main] carsrunner:14 - name is clicked in page name
+2022-01-14 21:46:15,975  INFO [main] carsrunner:14 - name is send in page name
+2022-01-14 21:46:16,938  INFO [main] carsrunner:14 - company name is clicked in page compname
+2022-01-14 21:46:17,719  INFO [main] carsrunner:14 - company name is send in page compname
+2022-01-14 21:46:18,707  INFO [main] carsrunner:14 - email is clicked in page email
+2022-01-14 21:46:19,517  INFO [main] carsrunner:14 - email is send in page email
+2022-01-14 21:46:20,493  INFO [main] carsrunner:14 - phone no is clicked in page phoneno
+2022-01-14 21:46:21,341  INFO [main] carsrunner:14 - phone no is send in page phoneno
+2022-01-14 21:46:22,515  INFO [main] carsrunner:14 - submit is clicked in page submit
+2022-01-14 21:46:26,758  INFO [main] carsrunner:14 - result detail shown 
+2022-01-14 21:46:27,801  INFO [main] carsrunner:14 - home page is clicked in page home page
+2022-01-14 21:46:28,371  INFO [main] carsrunner:14 - img is clicked in page img
+2022-01-14 21:46:31,097  INFO [main] carsrunner:14 - bookings is clicked in page bookings
+2022-01-14 21:46:33,646  INFO [main] carsrunner:14 - cancelled is clicked in page cancelled
+2022-01-14 21:46:36,206  INFO [main] carsrunner:14 - completed is clicked in page completed
+2022-01-14 21:46:38,851  INFO [main] carsrunner:14 - booknow is clicked in page booknow
+2022-01-14 21:46:41,791  INFO [main] carsrunner:14 - img is clicked in page img
+2022-01-14 21:46:44,783  INFO [main] carsrunner:14 - accountsetting is clicked in page accountsetting
+2022-01-14 21:46:47,760  INFO [main] carsrunner:14 - home is clicked in page home
+2022-01-14 21:46:50,565  INFO [main] carsrunner:14 - img is clicked in page img
+2022-01-14 21:46:53,585  INFO [main] carsrunner:14 - logout is clicked in page logout
+2022-01-14 21:46:54,204  INFO [main] carsrunner:14 - Signed out sucessfully 

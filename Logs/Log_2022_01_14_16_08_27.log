@@ -1,0 +1,17 @@
+2022-01-14 20:17:19,160  INFO [main] carsrunner:14 - URL Opened
+2022-01-14 20:17:22,804  INFO [main] carsrunner:14 - Page opend with title Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+2022-01-14 20:17:24,978  INFO [main] carsrunner:14 - signin is clicked in page home page
+2022-01-14 20:17:50,808 ERROR [main] carsrunner:21 - Email field can't send in page Account Log in
+2022-01-14 20:17:52,505  INFO [main] carsrunner:14 - from place is clicked in page from
+2022-01-14 20:17:53,680  INFO [main] carsrunner:14 - place is send in page from
+2022-01-14 20:17:54,648  INFO [main] carsrunner:14 - place is clicked in page to
+2022-01-14 20:17:55,381  INFO [main] carsrunner:14 - place is send in page to
+2022-01-14 20:17:56,334  INFO [main] carsrunner:14 - place is clicked in page to
+2022-01-14 20:17:57,751  INFO [main] carsrunner:14 - selected is clicked in page select
+2022-01-14 20:17:58,113 ERROR [main] carsrunner:21 -  failed to verify
+2022-01-14 20:18:16,475 ERROR [main] carsrunner:21 - round is not able clicked in page round
+2022-01-14 20:18:16,717 ERROR [main] carsrunner:21 - local is not able clicked in page local
+2022-01-14 20:18:16,870 ERROR [main] carsrunner:21 - airport is not able clicked in page airport
+2022-01-14 20:18:17,273 ERROR [main] carsrunner:21 - playstore is not able clicked in page playstore
+2022-01-14 20:18:17,669 ERROR [main] carsrunner:21 - car rental is not able clicked in page rental
+2022-01-14 20:18:18,014 ERROR [main] carsrunner:21 - One way cab is not able clicked in page onewaycab
