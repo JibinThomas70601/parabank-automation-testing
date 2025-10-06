@@ -1,8 +1,50 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 10, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 187.906 s <<< FAILURE! - in TestSuite
-com.mindtree.runner.carsrunner.Airport[KEB Colony](1)  Time elapsed: 4.305 s  <<< FAILURE!
+Tests run: 11, Failures: 10, Errors: 0, Skipped: 0, Time elapsed: 13.875 s <<< FAILURE! - in TestSuite
+com.mindtree.runner.carsrunner.LogIn[ProjectTestUser1, Test@12345](1)  Time elapsed: 5.001 s  <<< FAILURE!
+com.mindtree.exceptions.ApplicationException
+	at com.mindtree.runner.carsrunner.LogIn(carsrunner.java:89)
+
+com.mindtree.runner.carsrunner.Outstation[Bangalore, Karnataka, Chennai Central, Chennai](1)  Time elapsed: 0.145 s  <<< FAILURE!
+com.mindtree.exceptions.ApplicationException
+	at com.mindtree.runner.carsrunner.Outstation(carsrunner.java:111)
+
+com.mindtree.runner.carsrunner.Selectcar  Time elapsed: 2.053 s  <<< FAILURE!
+com.mindtree.exceptions.ApplicationException
+	at com.mindtree.runner.carsrunner.Selectcar(carsrunner.java:133)
+
+com.mindtree.runner.carsrunner.Local  Time elapsed: 0.038 s  <<< FAILURE!
+com.mindtree.exceptions.ApplicationException
+	at com.mindtree.runner.carsrunner.Local(carsrunner.java:148)
+
+com.mindtree.runner.carsrunner.Airport[s](1)  Time elapsed: 0.032 s  <<< FAILURE!
 com.mindtree.exceptions.ApplicationException
 	at com.mindtree.runner.carsrunner.Airport(carsrunner.java:163)
+
+com.mindtree.runner.carsrunner.ThisApp  Time elapsed: 0.038 s  <<< FAILURE!
+com.mindtree.exceptions.ApplicationException
+	at com.mindtree.runner.carsrunner.ThisApp(carsrunner.java:184)
+
+com.mindtree.runner.carsrunner.CarRental[madhesh, mindtree, madheshmaddy55@gmail.com, 8.760956783E9](1)  Time elapsed: 0.042 s  <<< FAILURE!
+com.mindtree.exceptions.ApplicationException
+	at com.mindtree.runner.carsrunner.CarRental(carsrunner.java:197)
+
+com.mindtree.runner.carsrunner.Onewaycab  Time elapsed: 0.036 s  <<< FAILURE!
+com.mindtree.exceptions.ApplicationException
+	at com.mindtree.runner.carsrunner.Onewaycab(carsrunner.java:220)
+
+com.mindtree.runner.carsrunner.SignOut  Time elapsed: 0.047 s  <<< FAILURE!
+com.mindtree.exceptions.ApplicationException
+	at com.mindtree.runner.carsrunner.SignOut(carsrunner.java:235)
+
+com.mindtree.runner.carsrunner.closeInstance  Time elapsed: 0.051 s  <<< FAILURE!
+org.openqa.selenium.NoSuchSessionException: 
+invalid session id
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-S5PQ46D9', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\user\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50436}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2f9c981b7af0bfbbb845d07e427f38aa
+	at com.mindtree.runner.carsrunner.closeInstance(carsrunner.java:243)
 

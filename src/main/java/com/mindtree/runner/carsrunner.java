@@ -10,15 +10,8 @@ import org.testng.annotations.Test;
 
 import com.mindtree.exceptions.ApplicationException;
 import com.mindtree.exceptions.UtilityException;
-import com.mindtree.pageObject.CorporateCarRental;
-import com.mindtree.pageObject.OneWayCabs;
 import com.mindtree.pageObject.SignIn;
-import com.mindtree.pageObject.SignOut;
-import com.mindtree.pageObject.Airport;
-import com.mindtree.pageObject.Local;
-import com.mindtree.pageObject.OutStation;
-import com.mindtree.pageObject.RoundTrip;
-import com.mindtree.pageObject.DownloadApp;
+import com.mindtree.pageObject.NewAccount;
 import com.mindtree.pageObject.ValidPage;
 import com.mindtree.reusableComponents.Base;
 import com.mindtree.utilities.ExtentLogUtilities;
@@ -98,11 +91,11 @@ public class carsrunner extends Base {
 		return data;
 	}
 	
-	@Test(priority = 3, dataProvider = "getData1")
-	public void Outstation(String fro, String too) throws ApplicationException {
-		test = report.startTest("out station");
+	@Test(priority = 3)
+	public void NewAccount() throws ApplicationException {
+		test = report.startTest("Open New Account");
 		try {
-			new OutStation(driver, log, test).Outstation(fro, too);
+			new NewAccount(driver, log, test).NewAccountOption();
 			report.endTest(test);
 			report.flush();
 		} catch (Exception e) {
@@ -111,131 +104,6 @@ public class carsrunner extends Base {
 			throw new ApplicationException(e.getMessage());
 		}
 	}
-
-	@DataProvider
-	public Object[] getData1() {
-		Object data[][] = new Object[1][2];
-		data[0][0] = excelData.get("fro");
-		data[0][1] = excelData.get("too");
-		return data;
-	}
-	
-	@Test(priority = 4)
-	public void Selectcar() throws ApplicationException {
-		test = report.startTest("select car");
-		try {
-			new RoundTrip(driver, log, test).Selectcar();
-			report.endTest(test);
-			report.flush();
-		} catch (Exception e) {
-			report.endTest(test);
-			report.flush();
-			throw new ApplicationException(e.getMessage());
-		}
-	}
-
-	
-	@Test(priority = 5)
-	public void Local() throws ApplicationException {
-		test = report.startTest("local");
-		try {
-			new Local(driver, log, test).Localcar();
-			report.endTest(test);
-			report.flush();
-		} catch (Exception e) {
-			report.endTest(test);
-			report.flush();
-			throw new ApplicationException(e.getMessage());
-		}
-	}
-	
-
-	@Test(priority = 6, dataProvider = "getData2")
-	public void Airport(String Add) throws ApplicationException {
-		test = report.startTest("Airport");
-		try {
-			new Airport(driver, log, test).Airportcar(Add);
-			report.endTest(test);
-			report.flush();
-		} catch (Exception e) {
-			report.endTest(test);
-			report.flush();
-			throw new ApplicationException(e.getMessage());
-		}
-	}
-
-	@DataProvider
-	public Object[] getData2() {
-		Object val[][] = new Object[1][1];
-		val[0][0] = excelData.get("Add");
-		return val;
-	}
-	
-	@Test(priority = 7)
-	public void ThisApp() throws ApplicationException {
-		test = report.startTest("The App");
-		try {
-			new DownloadApp(driver, log, test).App();
-			report.endTest(test);
-			report.flush();
-		} catch (Exception e) {
-			report.endTest(test);
-			report.flush();
-			throw new ApplicationException(e.getMessage());
-		}
-	}
-	@Test(priority = 8, dataProvider = "getData3")
-	public void CarRental(String nm,String cnm,String em,String ph) throws ApplicationException {
-		test = report.startTest("Car Rental");
-		try {
-			new CorporateCarRental(driver, log, test).CarRental(nm,cnm,em,ph);
-			report.endTest(test);
-			report.flush();
-		} catch (Exception e) {
-			report.endTest(test);
-			report.flush();
-			throw new ApplicationException(e.getMessage());
-		}
-	}
-
-	@DataProvider
-	public Object[] getData3() {
-		Object val[][] = new Object[1][4];
-		val[0][0] = excelData.get("nm");
-		val[0][1] = excelData.get("cnm");
-		val[0][2] = excelData.get("em");
-		val[0][3] = excelData.get("ph");
-		return val;
-	}
-	@Test(priority = 9)
-	public void Onewaycab() throws ApplicationException {
-		test = report.startTest("One Way CAB");
-		try {
-			new OneWayCabs(driver, log, test).Onewaycab();
-			report.endTest(test);
-			report.flush();
-		} catch (Exception e) {
-			report.endTest(test);
-			report.flush();
-			throw new ApplicationException(e.getMessage());
-		}
-	}
-
-	
-	@Test(priority = 10)
-	public void SignOut() throws ApplicationException {
-		test = report.startTest("Sign Out");
-		try {
-			new SignOut(driver, log, test).Signoutapp();
-			report.endTest(test);
-			report.flush();
-		} catch (Exception e) {
-			report.endTest(test);
-			report.flush();
-			throw new ApplicationException(e.getMessage());
-		}
-	}
-	
 	
 	
 	@AfterTest

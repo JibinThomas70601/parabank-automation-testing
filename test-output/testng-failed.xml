@@ -7,7 +7,6 @@
         <methods>
           <include name="Local"/>
           <include name="SignOut"/>
-          <include name="Outstation" invocation-numbers="0"/>
           <include name="Selectcar"/>
           <include name="initializeDriver"/>
           <include name="Onewaycab"/>

@@ -5,9 +5,17 @@
     <classes>
       <class name="com.mindtree.runner.carsrunner">
         <methods>
+          <include name="Local"/>
+          <include name="SignOut"/>
+          <include name="Outstation" invocation-numbers="0"/>
+          <include name="Selectcar"/>
           <include name="initializeDriver"/>
+          <include name="Onewaycab"/>
+          <include name="ThisApp"/>
           <include name="closeInstance"/>
           <include name="Airport" invocation-numbers="0"/>
+          <include name="CarRental" invocation-numbers="0"/>
+          <include name="LogIn" invocation-numbers="0"/>
         </methods>
       </class> <!-- com.mindtree.runner.carsrunner -->
     </classes>

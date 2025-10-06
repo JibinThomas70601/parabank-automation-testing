@@ -25,8 +25,8 @@ public class SignIn extends SigninUI {
 	public void login(String Uid, String Pw) throws ReusableComponentException, Exception {
 		try {
 			
-		WebDriverSupport.click(driver, signin, "home page", "signin", log, test);
-		Thread.sleep(5000);
+		//WebDriverSupport.click(driver, signin, "home page", "signin", log, test);
+		//Thread.sleep(5000);
 		WebDriverSupport.sendKeys(driver, email, "Account Log in", "Email field", log, test, Uid);
 		WebDriverSupport.sendKeys(driver, password, "Account Log in", "password field", log, test, Pw);
 		WebDriverSupport.click(driver, login, "Account Log in", "sign in button", log, test);
