@@ -5,5 +5,5 @@
     <classes>
       <class name="com.mindtree.runner.carsrunner"/>
     </classes>
-  </test> <!-- Test -->
+  </test> 
 </suite> <!-- Suite -->
